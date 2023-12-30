@@ -49,5 +49,5 @@ Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 
 ---
 
-Gracias por visitar mi perfil. ¡Espero que encuentres proyectos interesantes e inspiradores aquí!
+¡Gracias por visitar mi perfil!
 
