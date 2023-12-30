@@ -33,7 +33,7 @@ Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 ### 📫 Cómo contactarme:
 
 - Email: [tejedor.moreno@gmail.com](mailto:tejedor.moreno@gmail.com)
-- LinkedIn: [Ver perfil]([tu-link-de-linkedin](https://www.linkedin.com/in/stm84/)
+- LinkedIn: [Ver perfil](https://www.linkedin.com/in/stm84/)
 
 ### 🛠️ Herramientas y Tecnologías:
 
