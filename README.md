@@ -17,17 +17,23 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 
 ### 🚀 Proyectos destacados:
 
-[Proyecto 1: Profil Hunter]([Link al repositorio](https://github.com/sertemo/ProfileHunter))
+[Proyecto 1: Profil Hunter]([Link al repositorio](https://github.com/sertemo/ProfileHunter)
 Aplicación de escritorio para 'cazar' potenciales clientes scrapeando empresas en **Europages**.
-La aplicación te permite realizar búsquedas por sector y establecer un número máximo de búsquedas
+La aplicación te permite realizar búsquedas por sector y establecer un número máximo de búsquedas. Se pueden realizar hasta 5 búsquedas de sectores diferentes simultáneamente. Al acabar cada búsqueda se genera un archivo excel con información de las empresas encontradas como email, web etc.
 
-[Proyecto 2: Nombre del Proyecto](Link al repositorio)
-Descripción breve del proyecto. Tecnologías usadas: Python, Machine Learning, etc.
+[Proyecto 2: Psk mailing]([Link al repositorio](https://github.com/sertemo/psk)
+Proyecto complementario al anterior mediante el cual es posible hacer mailing a múltiples direcciones de correo con plantillas HTML personalizadas en función del sector objetivo.
+Su funcionamiento es muy sencillo: se le carga un archivo excel con datos de emrpesas y mails (por ejemplo el archivo del proyecto anterior) y la aplicación se encarga de mandar mails automáticamente con una plantilla HTML previamente definida y guardada.
+Ir a la aplicación [Psk](https://talsa-mailing.streamlit.app/)
+
+[Proyecto 3: Chat-CV]([Link al repositorio](https://github.com/sertemo/psk)
+Chatea con mi currículo o descárgalo desde la barra lateral.
+Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 
 ### 📫 Cómo contactarme:
 
-- Email: [tu-email@example.com](mailto:tu-email@example.com)
-- LinkedIn: [tu-perfil-de-linkedin](tu-link-de-linkedin)
+- Email: [tejedor.moreno@gmail.com](mailto:tejedor.moreno@gmail.com)
+- LinkedIn: [Ver perfil]([tu-link-de-linkedin](https://www.linkedin.com/in/stm84/)
 
 ### 🛠️ Herramientas y Tecnologías:
 
@@ -39,9 +45,7 @@ Descripción breve del proyecto. Tecnologías usadas: Python, Machine Learning, 
 
 ### 📊 Estadísticas de GitHub:
 
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=tokyonight)
-
-<!-- Cambia 'tu-usuario-github' en el enlace anterior con tu nombre de usuario de GitHub -->
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sertemo-github&show_icons=true&theme=tokyonight)
 
 ---
 
