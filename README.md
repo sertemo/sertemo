@@ -17,7 +17,7 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 
 ### 🚀 Proyectos destacados:
 
-[Proyecto 1: Kopuru Model Evaluation](https://github.com/sertemo/ProfileHunter)
+[Proyecto 1: Kopuru Model Evaluation](https://github.com/sertemo/kme)
 - Actualmente en desarrollo.
 Aplicación para evaluar los modelos creados para los diferentes desafíos de [Kopuru](https://kopuru.com/) en los que voy participando
 
