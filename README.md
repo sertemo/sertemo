@@ -7,8 +7,9 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 ### 🌱 Lo que estoy aprendiendo:
 
 - Machine Learning avanzado
-- Técnicas de análisis de datos
+- Técnicas avanzadas de análisis de datos
 - Desarrollo de aplicaciones con Streamlit y Flet
+- Desarrollo web con Reflex
 
 ### 💼 Experiencia profesional:
 
@@ -45,6 +46,7 @@ Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![Flet](https://img.shields.io/badge/-Flet-black?style=flat-square&logo=flet)
 ![Machine Learning](https://img.shields.io/badge/-MachineLearning-black?style=flat-square&logo=machinelearning)
+![Reflex](https://img.shields.io/badge/-Reflex-black?style=flat-square&logo=reflex)
 <!-- Puedes agregar más insignias desde https://shields.io/ -->
 
 ### 📊 Estadísticas de GitHub:
