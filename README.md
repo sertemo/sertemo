@@ -35,6 +35,9 @@ Ir a la aplicación [Psk](https://talsa-mailing.streamlit.app/)
 - Chatea con mi currículo o descárgalo desde la barra lateral.
 Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 
+[Proyecto 5: Mecanodei](https://github.com/sertemo/psk)
+- Aplicación desarrollada en Flet para Windows para mejorar la mecanografía. Carga los textos que quieras practicar y guarda estadísticas de tus fallos (palabras y letras) para poder mejorar.
+
 ### 📫 Cómo contactarme:
 
 - Email: [tejedor.moreno@gmail.com](mailto:tejedor.moreno@gmail.com)
