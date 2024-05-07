@@ -10,6 +10,7 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 - Técnicas avanzadas de análisis de datos
 - Desarrollo de aplicaciones con Streamlit y Flet
 - Desarrollo web con Reflex
+- Desarrollo de APIs con FastAPI
 
 ### 💼 Experiencia profesional:
 
@@ -18,24 +19,28 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 
 ### 🚀 Proyectos destacados:
 
-[Proyecto 1: Kopuru Model Evaluation](https://github.com/sertemo/kme)
+[Proyecto 1: ML Home Server](https://github.com/sertemo/mlhomeserver)
+- Actualmente en desarrollo.
+REST API montada en el ordenador de casa para correr predicciones de modelos de Machine Learning.
+
+[Proyecto 2: Kopuru Model Evaluation](https://github.com/sertemo/kme)
 - Actualmente en desarrollo.
 Aplicación para evaluar los modelos creados para los diferentes desafíos de [Kopuru](https://kopuru.com/) en los que voy participando
 
-[Proyecto 2: Profil Hunter](https://github.com/sertemo/ProfileHunter)
+[Proyecto 3: Profil Hunter](https://github.com/sertemo/ProfileHunter)
 - Aplicación de escritorio para 'cazar' potenciales clientes scrapeando empresas en **Europages**.
 La aplicación te permite realizar búsquedas por sector y establecer un número máximo de búsquedas. Se pueden realizar hasta 5 búsquedas de sectores diferentes simultáneamente. Al acabar cada búsqueda se genera un archivo excel con información de las empresas encontradas como email, web etc.
 
-[Proyecto 3: Psk mailing](https://github.com/sertemo/psk)
+[Proyecto 4: Psk mailing](https://github.com/sertemo/psk)
 - Proyecto complementario al anterior mediante el cual es posible hacer mailing a múltiples direcciones de correo con plantillas HTML personalizadas en función del sector objetivo.
 Su funcionamiento es muy sencillo: se le carga un archivo excel con datos de emrpesas y mails (por ejemplo el archivo del proyecto anterior) y la aplicación se encarga de mandar mails automáticamente con una plantilla HTML previamente definida y guardada.
 Ir a la aplicación [Psk](https://talsa-mailing.streamlit.app/)
 
-[Proyecto 4: Chat-CV](https://github.com/sertemo/psk)
+[Proyecto 5: Chat-CV](https://github.com/sertemo/psk)
 - Chatea con mi currículo o descárgalo desde la barra lateral.
 Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 
-[Proyecto 5: Mecanodei](https://github.com/sertemo/psk)
+[Proyecto 6: Mecanodei](https://github.com/sertemo/psk)
 - Aplicación desarrollada en Flet para Windows para mejorar la mecanografía. Carga los textos que quieras practicar y guarda estadísticas de tus fallos (palabras y letras) para poder mejorar.
 
 ### 📫 Cómo contactarme:
