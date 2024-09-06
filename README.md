@@ -47,7 +47,7 @@ Ir a la aplicación [chat-cv](https://stm-cv.streamlit.app/)
 [Proyecto 6: Mecanodei](https://github.com/sertemo/psk)
 - Aplicación desarrollada en Flet para Windows para mejorar la mecanografía. Carga los textos que quieras practicar y guarda estadísticas de tus fallos (palabras y letras) para poder mejorar.
 
-[Proyecto 7: DogimoBot]([https://github.com/sertemo/psk](https://github.com/sertemo/DoGimoBot))
+[Proyecto 7: DogimoBot](https://github.com/sertemo/DoGimoBot)
 - Pequeño proyecto de Bot para un canal de Discord enfocado al desafío fin de bootcamp. El Bot tiene memoria sobre la conversación y utiliza la API de ChatGPT para sus respuestas.
 
 ### 📫 Cómo contactarme:
