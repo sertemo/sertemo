@@ -10,6 +10,7 @@ Soy un ingeniero industrial apasionado por el Machine Learning, la programación
 - **Técnicas avanzadas de análisis de datos**
 - **Arquitectura en la nube con GCP**
 - **Kubernetes**
+- **Lenguaje Go**
 - **Desarrollo de aplicaciones con Streamlit y Flet**
 - **Desarrollo web con Reflex**
 - **Desarrollo de APIs con FastAPI**
